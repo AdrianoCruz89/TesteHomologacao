@@ -1,0 +1,14 @@
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\bin\Debug\NewsAPI.dll.config
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\bin\Debug\NewsAPI.XML
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\bin\Debug\NewsAPI.dll
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\bin\Debug\NewsAPI.pdb
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\bin\Debug\Newtonsoft.Json.dll
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\bin\Debug\Newtonsoft.Json.xml
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\obj\Debug\NewsAPI.csprojAssemblyReference.cache
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\obj\Debug\NewsAPI.csproj.CoreCompileInputs.cache
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\obj\Debug\NewsAPI.csproj.CopyComplete
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\obj\Debug\NewsAPI.dll
+C:\BACKUPS\Adriano\News-API-csharp-master\NewsAPI\obj\Debug\NewsAPI.pdb

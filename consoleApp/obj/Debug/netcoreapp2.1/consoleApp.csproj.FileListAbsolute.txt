@@ -1,0 +1,11 @@
+C:\Users\adriano.cruz\Documents\Adriano\TesteHomologacao\TesteHomologacao\consoleApp\bin\Debug\netcoreapp2.1\consoleApp.deps.json
+C:\Users\adriano.cruz\Documents\Adriano\TesteHomologacao\TesteHomologacao\consoleApp\bin\Debug\netcoreapp2.1\consoleApp.runtimeconfig.json
+C:\Users\adriano.cruz\Documents\Adriano\TesteHomologacao\TesteHomologacao\consoleApp\bin\Debug\netcoreapp2.1\consoleApp.runtimeconfig.dev.json
+C:\Users\adriano.cruz\Documents\Adriano\TesteHomologacao\TesteHomologacao\consoleApp\bin\Debug\netcoreapp2.1\consoleApp.dll
+C:\Users\adriano.cruz\Documents\Adriano\TesteHomologacao\TesteHomologacao\consoleApp\bin\Debug\netcoreapp2.1\consoleApp.pdb
+C:\Users\adriano.cruz\Documents\Adriano\TesteHomologacao\TesteHomologacao\consoleApp\obj\Debug\netcoreapp2.1\consoleApp.csprojAssemblyReference.cache
+C:\Users\adriano.cruz\Documents\Adriano\TesteHomologacao\TesteHomologacao\consoleApp\obj\Debug\netcoreapp2.1\consoleApp.csproj.CoreCompileInputs.cache
+C:\Users\adriano.cruz\Documents\Adriano\TesteHomologacao\TesteHomologacao\consoleApp\obj\Debug\netcoreapp2.1\consoleApp.AssemblyInfoInputs.cache
+C:\Users\adriano.cruz\Documents\Adriano\TesteHomologacao\TesteHomologacao\consoleApp\obj\Debug\netcoreapp2.1\consoleApp.AssemblyInfo.cs
+C:\Users\adriano.cruz\Documents\Adriano\TesteHomologacao\TesteHomologacao\consoleApp\obj\Debug\netcoreapp2.1\consoleApp.dll
+C:\Users\adriano.cruz\Documents\Adriano\TesteHomologacao\TesteHomologacao\consoleApp\obj\Debug\netcoreapp2.1\consoleApp.pdb
