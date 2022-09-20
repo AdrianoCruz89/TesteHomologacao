@@ -16,7 +16,7 @@ namespace MyApplication
                 Q = "Apple",
                 SortBy = SortBys.Popularity,
                 Language = Languages.EN,
-                From = new DateTime(2022, 6, 16)
+                From = new DateTime(2022, 9, 19)
             });
             if (articlesResponse.Status == Statuses.Ok)
             {

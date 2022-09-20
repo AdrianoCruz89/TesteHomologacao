@@ -9,7 +9,7 @@ namespace consoleApp
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
             // init with your API key
             var newsApiClient = new NewsApiClient("94ba4129b2154f739c8769d603519ac9");
             var articlesResponse = newsApiClient.GetEverything(new EverythingRequest
@@ -17,7 +17,7 @@ namespace consoleApp
                 Q = "Apple",
                 SortBy = SortBys.Popularity,
                 Language = Languages.EN,
-                From = new DateTime(2018, 1, 25)
+                From = new DateTime(2022, 9, 19)
             });
             if (articlesResponse.Status == Statuses.Ok)
             {
